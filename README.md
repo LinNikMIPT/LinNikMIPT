@@ -1,15 +1,11 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=farag2&theme=darkhub&no-bg=true&no-frame=true)
-
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
-Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
+### Hi, I am Nikita from Moscow. Data Science Developer.
 
 [telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
 [telegram-news]: https://t.me/sophianews
 [telegram-group]: https://t.me/sophia_chat
 [telegram-group-badge]: https://img.shields.io/badge/Sophia%20Chat-Telegram-blue?style=flat&logo=Telegram
   
-[![Yandex](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:nefedovds@ya.ru) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sanctuary_d) [![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
+[![Yandex](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:lindemann.na@phystech.edu) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
 
 * Open-source enthusiast and maintainer :desktop_computer:
 * Love to help people :electric_plug:
