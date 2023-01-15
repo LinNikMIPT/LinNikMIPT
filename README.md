@@ -2,7 +2,7 @@
   
 [![Yandex](https://img.shields.io/badge/-lindemann.na@phystech.edu-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:lindemann.na@phystech.edu)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/nikita-lindemann-04814323a)
+[![LinkedIn](https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/a6470d98-701d-4f7a-bc11-5c7407d83c13.png)](https://www.linkedin.com/in/nikita-lindemann-04814323a)
 
 * MIPT student
 * Developing Computer Vision systems using Deep Learning
