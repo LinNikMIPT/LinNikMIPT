@@ -5,7 +5,7 @@
 [telegram-group]: https://t.me/sophia_chat
 [telegram-group-badge]: https://img.shields.io/badge/Sophia%20Chat-Telegram-blue?style=flat&logo=Telegram
   
-[![Yandex](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:lindemann.na@phystech.edu) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
+[![Yandex](https://img.shields.io/badge/-lindemann.na@phystech.edu-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:lindemann.na@phystech.edu) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
 
 * Open-source enthusiast and maintainer :desktop_computer:
 * Love to help people :electric_plug:
