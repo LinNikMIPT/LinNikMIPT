@@ -1,16 +1,11 @@
 ### Hi, I am Nikita from Moscow. Data Science Developer.
-
-[telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
-[telegram-news]: https://t.me/sophianews
-[telegram-group]: https://t.me/sophia_chat
-[telegram-group-badge]: https://img.shields.io/badge/Sophia%20Chat-Telegram-blue?style=flat&logo=Telegram
   
 [![Yandex](https://img.shields.io/badge/-lindemann.na@phystech.edu-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:lindemann.na@phystech.edu) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
 
-* Open-source enthusiast and maintainer :desktop_computer:
-* Love to help people :electric_plug:
-* I do like automation 🤖
-* I work on [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows), the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub, and its' GUI version, [SophiApp](https://github.com/Sophia-Community/SophiApp) :keyboard: 
+* **MIPT student**
+* Developing Computer Vision systems using Deep Learning
+* My stack: Python: Pytorch, TensorFlow, OpenCV, Sklearn, Asyncio, Threads; Linux; Git; ffmpeg
+* Using Convolutional Neural Network for classification, detection, segmentation tasks: Yolo, MobileNet, ResNet, etc
 
 [![Card](https://github-readme-stats.vercel.app/api/pin?username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/farag2/Sophia-Script-for-Windows)
 [![Card](https://github-readme-stats.vercel.app/api/pin?username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/Sophia-Community/SophiApp)
