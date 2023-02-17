@@ -5,5 +5,5 @@
 
 * MIPT student
 * Developing Computer Vision systems using Deep Learning
-* Stack: Python: Pytorch, TensorFlow, OpenCV, Sklearn, Asyncio, Threads; Linux; Git; ffmpeg
+* Stack: Python (numpy, pandas, pytorch, tensorflow, opencv, sklearn, asyncio, multiprocessing, threading); Linux; Git; ffmpeg
 * Using Convolutional Neural Network for classification, detection, segmentation tasks: Yolo, MobileNet, ResNet, etc
