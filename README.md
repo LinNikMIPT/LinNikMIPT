@@ -5,6 +5,6 @@
 
 * MIPT graduate
 * Developing Computer Vision systems using Deep Learning
-* Stack: Python (numpy, pandas, pytorch, tensorflow, opencv, sklearn, asyncio, multiprocessing, threading); Linux; Git; ffmpeg
+* Stack: Python (numpy, pandas, pytorch, tensorflow, opencv, sklearn, asyncio, multiprocessing, threading); SQL; Linux; Git; C++; ffmpeg
 * Using Convolutional Neural Network for classification, detection, segmentation tasks: Yolo, MobileNet, ResNet, etc
 * My CV: [DataScientist](https://github.com/LinNikMIPT/CV)
