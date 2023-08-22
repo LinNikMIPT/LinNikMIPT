@@ -4,7 +4,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
 
 * MIPT graduate
-* Developing Computer Vision systems using Deep Learning
-* Stack: Python (numpy, pandas, pytorch, tensorflow, opencv, sklearn, asyncio, multiprocessing, threading); SQL; Linux; Git; C++; ffmpeg
-* Using Convolutional Neural Network for classification, detection, segmentation tasks: Yolo, MobileNet, ResNet, etc
+* 4 years of experience with machine learning models, data preparation and training neural networks using TensorFlow and PyTorch frameworks
+* Developing Computer Vision systems
+* Stack: Python (numpy, pandas, pytorch, tensorflow, opencv, pillow, sklearn, asyncio, multiprocessing, threading, websockets); SQL; Linux; Git; C++; ffmpeg; ansible; systemd; docker
+* MLOps experience: deploying, configuring and monitoring modules using python, systemctl, ansible, docker, SQL.
 * My CV: [DataScientist](https://github.com/LinNikMIPT/CV)
