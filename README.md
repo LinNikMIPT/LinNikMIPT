@@ -2,7 +2,6 @@
 
 [![Yandex](https://img.shields.io/badge/-lindemann.na@phystech.edu-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:lindemann.na@phystech.edu)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
-[!LinkdeIn(https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/nikita-lindemann/)
 
 * My CV: [DataScientist](https://github.com/LinNikMIPT/CV).
 * Current position: Data Scientist in [Cloud.ru](https://cloud.ru/ru) (DSWorks department).
