@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
 
 * My CV: [DataScientist](https://github.com/LinNikMIPT/CV).
-* Current position: Data Scientist in [Cloud.ru](https://cloud.ru/ru) (DSWorks department).
+* Current position: Senior Data Scientist in [Cloud.ru](https://cloud.ru/ru) (DSWorks department).
 * MIPT graduate.
 * 4 years of experience with machine learning models, data preparation and training neural networks using TensorFlow and PyTorch frameworks.
 * 2 years of experience as Python developer.
