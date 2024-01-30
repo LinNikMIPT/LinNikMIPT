@@ -8,5 +8,5 @@
 * MIPT graduate.
 * 5 years of experience with machine learning models, data preparation and training neural networks using TensorFlow and PyTorch frameworks.
 * 2 years of experience as Python developer.
-* Stack: Python (numpy, pandas, pytorch, tensorflow, opencv, pillow, sklearn, asyncio, multiprocessing, threading, websockets); SQL; Linux; Git; C++; ffmpeg; ansible; systemd; docker.
+* Stack: Python (numpy, pandas, pytorch, tensorflow, opencv, pillow, sklearn, asyncio, multiprocessing, threading, websockets, flask); SQL; Linux; Git; C++; ffmpeg; ansible; systemd; docker.
 * MLOps experience: deploying, configuring and monitoring modules using python, systemctl, ansible, docker, SQL.
