@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
 
 * [My CV](https://github.com/LinNikMIPT/CV).
-* Current position: Senior Data Scientist in [Cloud.ru](https://cloud.ru/ru) (DSWorks department).
+* Current position: Senior Data Scientist in [Cloud.ru](https://cloud.ru/ru), [DSWorks department](https://dsworks.ru/en).
 * 5 years of experience with machine learning and Python development.
 * MIPT graduate.
 * Stack: Python (numpy, pandas, pytorch, tensorflow, opencv, pillow, sklearn, asyncio, multiprocessing, threading, websockets, flask); SQL; Linux; Git; C++; ffmpeg; ansible; systemd; docker.
