@@ -7,5 +7,5 @@
 * Current position: Senior Data Scientist in [Cloud.ru](https://cloud.ru/ru), [DSWorks department](https://dsworks.ru/en).
 * 5 years of experience with machine learning and Python development.
 * MIPT graduate.
-* Stack: Python (numpy, pandas, pytorch, tensorflow, opencv, pillow, sklearn, asyncio, multiprocessing, threading, websockets, flask); SQL; Linux; Git; C++; ffmpeg; ansible; systemd; docker.
+* Stack: Python (fastapi, aiohttp, alembic, asyncio, multiprocessing, threading, websockets, flask); ML (pytorch, tensorflow, opencv, pillow, sklearn, numpy, pandas); SQL; Linux; Git; C++; ffmpeg; ansible; systemd; docker.
 * MLOps experience: deploying, configuring and monitoring modules using python, systemctl, ansible, docker, SQL.
