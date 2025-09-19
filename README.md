@@ -5,7 +5,7 @@
 
 * **CV**: [My CV](https://github.com/LinNikMIPT/CV).
 * **Current position**: Backend Python Developer at [Cloud.ru](https://cloud.ru/ru).
-* **Experience**: Over 5 years of experience experience in Machine Learning and Python development.
+* **Experience**: Over 5 years of experience in Machine Learning and Python development.
 * **Background**: MIPT graduate.
 * **Stack**:
   - Backend & Async: FastAPI, aiohttp, Flask, asyncio, websockets, multiprocessing, threading;
