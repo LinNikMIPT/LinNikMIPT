@@ -11,7 +11,7 @@
 * **Education**: MIPT graduate.
 * **Stack**:
   - *Backend*: FastAPI, Aiohttp, asyncio, websockets, multiprocessing, threading.
-  - *DevOps*: Docker, docker-compose, CI/CD, Linux, Git, Ansible, systemd, Lens, Grafana, Sentry, Vault, ArgoCD.
   - *Databases & Brokers*: PostgreSQL, ClickHouse, Redis, Kafka.
+  - *DevOps*: Docker, docker-compose, CI/CD, Linux, Git, Ansible, systemd, Lens, Grafana, Sentry, Vault, ArgoCD.
   - *Data Science & ML*: PyTorch, TensorFlow, OpenCV, scikit-learn, pandas, NumPy.
   - *Languages*: Python, C++, Go, SQL.
