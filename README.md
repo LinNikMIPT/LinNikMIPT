@@ -1,4 +1,4 @@
-### Hi! I am Nikita, Backend Python Developer with 6+ years of experience in productizing Machine Learning.
+### Hi! I am Nikita, a Backend Python Developer with 6+ years of experience, including a strong background in Data Science.
 
 [![Yandex](https://img.shields.io/badge/-lindemann.na@phystech.edu-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:lindemann.na@phystech.edu)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
