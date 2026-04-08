@@ -1,4 +1,4 @@
-### Hi! I am Nikita, a Backend Python Developer with 6+ years of experience, including a strong background in Data Science.
+### Hi! I am Nikita, a Python Backend Developer with 6+ years of experience, including a strong background in Data Science.
 
 [![Gmail](https://img.shields.io/badge/-lindemann.nikita99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:lindemann.nikita99@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/NikLinMIPT)
