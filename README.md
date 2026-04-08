@@ -6,7 +6,8 @@
 * **CV**:
   - *RU*: [CV_RU](https://github.com/LinNikMIPT/My_CV/blob/main/Lindemann_PythonDeveloper_RU.pdf).
   - *ENG*: [CV_ENG](https://github.com/LinNikMIPT/My_CV/blob/main/Lindemann_PythonDeveloper_ENG.pdf).
-* **Current position**: Backend Python Developer at [Tochka Bank](https://tochka.com/).
+* **LinkedIn**: [nikita-lindemann](https://www.linkedin.com/in/nikita-lindemann/)
+* **Current position**: Python Backend Developer at [Tochka Bank](https://tochka.com/).
 * **Experience**: 6+ years of building production backend systems and machine learning solutions, from concept to deployment.
 * **Education**: MIPT graduate.
 * **Stack**:
